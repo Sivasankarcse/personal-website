@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sivasankarcse/personal-website.git/static/css/main.d8e6c5b3.chunk.css",
+    "main.js": "/Sivasankarcse/personal-website.git/static/js/main.afd437e2.chunk.js",
+    "main.js.map": "/Sivasankarcse/personal-website.git/static/js/main.afd437e2.chunk.js.map",
+    "runtime-main.js": "/Sivasankarcse/personal-website.git/static/js/runtime-main.b3c294c6.js",
+    "runtime-main.js.map": "/Sivasankarcse/personal-website.git/static/js/runtime-main.b3c294c6.js.map",
+    "static/js/2.547fda21.chunk.js": "/Sivasankarcse/personal-website.git/static/js/2.547fda21.chunk.js",
+    "static/js/2.547fda21.chunk.js.map": "/Sivasankarcse/personal-website.git/static/js/2.547fda21.chunk.js.map",
+    "static/js/3.f8f6ea94.chunk.js": "/Sivasankarcse/personal-website.git/static/js/3.f8f6ea94.chunk.js",
+    "static/js/3.f8f6ea94.chunk.js.map": "/Sivasankarcse/personal-website.git/static/js/3.f8f6ea94.chunk.js.map",
+    "index.html": "/Sivasankarcse/personal-website.git/index.html",
+    "static/css/main.d8e6c5b3.chunk.css.map": "/Sivasankarcse/personal-website.git/static/css/main.d8e6c5b3.chunk.css.map",
+    "static/js/2.547fda21.chunk.js.LICENSE.txt": "/Sivasankarcse/personal-website.git/static/js/2.547fda21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3c294c6.js",
+    "static/js/2.547fda21.chunk.js",
+    "static/css/main.d8e6c5b3.chunk.css",
+    "static/js/main.afd437e2.chunk.js"
+  ]
+}
